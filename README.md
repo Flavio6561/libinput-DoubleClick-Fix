@@ -1,6 +1,5 @@
 ## libinput-DoubleClick-Fix,
-A script that removes double click delay/ghosting in Linux distros using libinput  
-### The script:
+A script that removes the default double click ghosting in libinput  
 ```
 sudo mkdir -p /etc/libinput
 sudo sh -c 'echo "[libinput-DoubleClick-Fix]
